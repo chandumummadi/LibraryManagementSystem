@@ -142,10 +142,7 @@ LibraryManagementSystem/
 
 This project is open-source and available under the MIT License.
 
-```
-
----
-
+```bash
 ### How to Customize
 
 1. **GitHub URL**: git clone https://github.com/chandumummadi/LibraryManagementSystem.git.
@@ -153,3 +150,4 @@ This project is open-source and available under the MIT License.
 3. **Additional Features**: Feel free to add any other features you’ve implemented or plan to implement.
 
 Let me know if you need any adjustments to this README or further customization for your project!
+```
