@@ -148,7 +148,7 @@ This project is open-source and available under the MIT License.
 
 ### How to Customize
 
-1. **GitHub URL**: Make sure to replace `https://github.com/yourusername/LibraryManagementSystem.git` with your actual GitHub repository URL.
+1. **GitHub URL**: git clone https://github.com/chandumummadi/LibraryManagementSystem.git.
 2. **Database Details**: Update any specific database details or connection settings you may have in your `application.properties` file.
 3. **Additional Features**: Feel free to add any other features you’ve implemented or plan to implement.
 
