@@ -1,7 +1,5 @@
 # LibraryManagementSystem
 
-```markdown
-# Library Management System
 
 A simple **Library Management System** built using **Java** and **PostgreSQL**. This project allows you to manage books, users, and basic library operations such as adding, removing, issuing, and returning books. It is a console-based application for now, with the possibility to extend it into a full-fledged web-based application later.
 
