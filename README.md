@@ -107,7 +107,7 @@ LibraryManagementSystem/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/LibraryManagementSystem.git
+   git clone https://github.com/chandumummadi/LibraryManagementSystem.git
    ```
 
 2. **Navigate to the project directory**:
